@@ -1,5 +1,6 @@
 {
-  "name": "temp-app",
+  "name": "ucare-consultas",
+  "description": "Guía educativa de salud sexual y prevención de ITS de UCARE.",
   "private": true,
   "version": "0.0.0",
   "type": "module",

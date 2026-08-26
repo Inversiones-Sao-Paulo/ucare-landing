@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://consultas.ucare.cl/sitemap.xml
