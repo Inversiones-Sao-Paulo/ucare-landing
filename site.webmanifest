@@ -1,0 +1,19 @@
+{
+  "name": "Guía de Salud Sexual y Prevención de ITS | UCARE",
+  "short_name": "UCARE",
+  "description": "Información educativa sobre prevención, síntomas y evaluación de infecciones de transmisión sexual.",
+  "lang": "es-CL",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf0",
+  "theme_color": "#a42a60",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
